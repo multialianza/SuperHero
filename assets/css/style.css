@@ -1,0 +1,11 @@
+/* Estilos error en ingreso al formulario */
+.errorNumero {
+  color: red;
+  font-style: italic;
+}
+
+/*Estilo de fondo*/
+body {
+  background: #9bbbe1;
+  }
+
